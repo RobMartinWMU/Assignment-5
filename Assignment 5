@@ -1,3 +1,0 @@
-muscle -in infile.fasta -seqtype protein -maxiters 16 -maxmb 30000000 -hydro 5 -hydrofactor 1.2 -log logfil
-Pteropus lylei, Syconycteris australis, Dobsonia virdis, Cynopterus sphinx, Rousettus leshenaultii, Epomophorus wahlbergi
-This type of phylogeny would be useful to help identify close relations and mutations in the Covid-19 virus. This type of identification can help researchers come up with new vaccines to help fight against new evolved strands of Covid-19.
